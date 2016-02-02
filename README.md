@@ -1,2 +1,4 @@
 # wyncode_GitHub
-Some projects and short code snippets completed at Wyncode
+author: Robert Anderson
+
+This repository contains some projects and short code snippets from my time at Wyncode
