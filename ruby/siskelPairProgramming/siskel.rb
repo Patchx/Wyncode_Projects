@@ -1,3 +1,6 @@
+# Pair Programming Hackathon for Week 3 of Wyncode FLL Cohort 4 - 2016
+# Authors: Robert Anderson and Derek Kelmanson
+
 require 'httparty'
 
 class Siskel

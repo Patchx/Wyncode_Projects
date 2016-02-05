@@ -1,3 +1,6 @@
+# Pair Programming HAckathon project for Week 2 of Wyncode FLL Cohort 4 - 2016
+# Authors: Robert Anderson and Sean Rhoades
+
 def bill
   puts "THANKS FOR EATING AT JOE'S DINER!"
   puts "Please enter the bill:"
