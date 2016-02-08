@@ -1,0 +1,56 @@
+/* * {
+	border: dashed blue 2px;
+} 
+*/
+div {
+	display: block;
+	float: bottom;
+}
+
+img {
+	float:left;
+}
+
+footer {
+	display: block;
+}
+
+.rc {
+	position: relative;
+}
+.rc .s {
+	line-height: 18px;
+}
+
+.r {
+	font-size: medium;
+}
+/*.sl, .r {
+	display: inline;
+	font-weight: normal;
+	margin: 0;
+}*/
+
+h4.r {
+	font-size: small;
+}
+
+.st {
+	line-height: 1.4;
+	word-wrap: break-word;
+}
+
+.st sup {
+	line-height: 0.9;
+}
+
+.s {
+	max-width: 42em;
+}
+
+.g {
+	line-height: 1.2;
+	text-align: left;
+	margin-bottom: 23px;
+	margin-top: 0;
+}
