@@ -1,0 +1,47 @@
+#main {
+	display: flex;
+	flex-flow: nowrap wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	height: 400px;
+}
+
+header {
+	display: flex;
+	background-color: blue;
+	color: white;
+	border: white solid 2px;
+	height: 41px;
+}
+
+footer {
+	display: flex;
+	background-color: blue;
+	color: white;
+	border: white solid 2px;
+	height: 31px;
+}
+
+section {
+	display: flex;
+	background-color: gray;
+	color: white;
+	border: white solid 2px;
+	order: 1;
+	flex-grow: 1;
+}
+
+nav {
+	display: flex;
+	background-color: green;
+	color: white;
+	border: white solid 2px;
+}
+
+aside {
+	display: flex;
+	background-color: red;
+	color: white;
+	border: white solid 2px;
+	order: 2;
+}
